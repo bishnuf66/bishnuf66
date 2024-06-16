@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bishnu Bk</h1>
-<h3 align="center">A passionate frontend developer Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnuf66&label=Profile%20views&color=0e75b6&style=flat" alt="bishnuf66" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishnuf66" alt="bishnuf66" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rose-ten-68.vercel.app/](https://portfolio-rose-ten-68.vercel.app/)
 
