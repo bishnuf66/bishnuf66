@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishnuf66&label=Profile%20views&color=0e75b6&style=flat" alt="bishnuf66" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rose-ten-68.vercel.app/](https://portfolio-rose-ten-68.vercel.app/)
+- 👨‍💻 All of my projects are available at https://www.bishnubk.com.np/
 
 - 📫 How to reach me **b0677908@gmail.com**
 
